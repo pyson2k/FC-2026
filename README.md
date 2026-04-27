@@ -16,3 +16,8 @@ SBUS (inverter UART 1)
 banggood (cheap book for R)
 R 22ohm
 C0805
+
+
+
+
+DHT-4235A 
